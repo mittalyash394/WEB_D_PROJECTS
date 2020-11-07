@@ -56,3 +56,16 @@ body{
 	background-color: #ddd;
 	color: red;
 }
+.pagination a.active{
+	color: black;
+	background-color: blue;
+}
+.row{
+	display: flex;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.column{
+	padding: 5px;
+	flex: 25%;
+}

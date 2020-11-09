@@ -9,7 +9,7 @@ body{
 .topnav a{
 	float: left;
 	text-align: center;
-	padding: 14px 16px;
+	padding: 14px 10px;
 	font-size: 17px;
 	text-decoration: none;
 	color: black;
@@ -82,4 +82,8 @@ body{
 }
 .end_part p{
 	text-align: center;
+}
+.main_part{
+	background-color: #90EE90;
+	margin-top: 0;
 }
